@@ -26,9 +26,9 @@
       }
     ]
   },
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/SEG91/SubSoleVeritas",
+  "manifest": "https://raw.githubusercontent.com/SEG91/SubSoleVeritas/main/module.json",
+  "download": "https://github.com/SEG91/SubSoleVeritas/archive/main.zip",
   "packs": [
     {
       "label": "Sub Sole Veritas",
