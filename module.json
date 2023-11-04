@@ -1,0 +1,54 @@
+{
+  "id": "SubSoleVeritas",
+  "title": "Valombreuse In Sole Veritas",
+  "description": "Un module qui permet de d�couvrir le monde de Valombreuse � travers le sc�nario d'initition In Sole Veritas",
+  "authors": [
+    {
+      "name": "SEG91",
+      "url": "https://github.com/SEG91",
+      "flags": {}
+    }
+  ],
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": ""
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "valombreuse",
+        "type": "system",
+        "manifest": "",
+        "compatibility": {
+          "verified": ""
+        }
+      }
+    ]
+  },
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "packs": [
+    {
+      "label": "Sub Sole Veritas",
+      "type": "JournalEntry",
+      "name": "In-sole-veritas",
+      "path": "packs/in-sole-veritas.db",
+      "system": "valombreuse",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Scène : Sub Sole Veritas",
+      "type": "Scene",
+      "name": "scene--in-sole-veritas",
+      "path": "packs/scene--in-sole-veritas.db",
+      "system": "valombreuse",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+  ]
+}
