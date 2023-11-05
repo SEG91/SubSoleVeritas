@@ -9,7 +9,7 @@
       "flags": {}
     }
   ],
-  "version": "0.1",
+  "version": "0.2",
   "compatibility": {
     "minimum": "11",
     "verified": ""
@@ -46,6 +46,18 @@
       "path": "packs/scene--in-sole-veritas.db",
       "system": "valombreuse",
       "private": false,
+      "flags": {}
+    },
+    {
+      "label": "PNJ Sub Sole Veritas",
+      "type": "Actor",
+      "name": "pnj-sub-sole-veritas",
+      "path": "packs/pnj-sub-sole-veritas",
+      "system": "valombreuse",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
       "flags": {}
     }
   ],
