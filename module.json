@@ -9,10 +9,10 @@
       "flags": {}
     }
   ],
-  "version": "0.3",
+  "version": "0.4",
   "compatibility": {
     "minimum": "11",
-    "verified": ""
+    "verified": "11"
   },
   "relationships": {
     "systems": [
