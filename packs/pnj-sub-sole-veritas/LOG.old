@@ -1,14 +1,14 @@
-2023/11/12-11:44:48.131980 30bca2000 Recovering log #128
-2023/11/12-11:44:48.132470 30bca2000 Delete type=3 #126
-2023/11/12-11:44:48.132693 30bca2000 Delete type=0 #128
-2023/11/12-13:47:45.636184 306db7000 Level-0 table #133: started
-2023/11/12-13:47:45.636896 306db7000 Level-0 table #133: 20236 bytes OK
-2023/11/12-13:47:45.637200 306db7000 Delete type=0 #131
-2023/11/12-13:47:45.638545 306db7000 Manual compaction at level-0 from '!actors!02sDBcglLBxN4I04' @ 72057594037927935 : 1 .. '!folders!aI1MMADBHOTgQWoQ' @ 0 : 0; will stop at '!actors.items!vaAfoy0gcRvRcvNl.ip4Ykbw1hNxgXxyh' @ 155 : 1
-2023/11/12-13:47:45.638551 306db7000 Compacting 1@0 + 1@1 files
-2023/11/12-13:47:45.642306 306db7000 Generated table #134@0: 152 keys, 175252 bytes
-2023/11/12-13:47:45.642337 306db7000 Compacted 1@0 + 1@1 files => 175252 bytes
-2023/11/12-13:47:45.642418 306db7000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/11/12-13:47:45.642525 306db7000 Delete type=2 #125
-2023/11/12-13:47:45.643025 306db7000 Delete type=2 #133
-2023/11/12-13:47:45.643889 306db7000 Manual compaction at level-0 from '!actors.items!vaAfoy0gcRvRcvNl.ip4Ykbw1hNxgXxyh' @ 155 : 1 .. '!folders!aI1MMADBHOTgQWoQ' @ 0 : 0; will stop at (end)
+2023/11/12-13:47:48.711269 30b4a3000 Recovering log #132
+2023/11/12-13:47:48.711810 30b4a3000 Delete type=0 #132
+2023/11/12-13:47:48.711980 30b4a3000 Delete type=3 #130
+2023/11/12-21:58:09.522942 306db7000 Level-0 table #138: started
+2023/11/12-21:58:09.524736 306db7000 Level-0 table #138: 89702 bytes OK
+2023/11/12-21:58:09.525341 306db7000 Delete type=0 #136
+2023/11/12-21:58:09.525974 306db7000 Manual compaction at level-0 from '!actors!02sDBcglLBxN4I04' @ 72057594037927935 : 1 .. '!folders!aI1MMADBHOTgQWoQ' @ 0 : 0; will stop at '!actors.items!tJfub4jB4kAK5N5b.rDnrOvgN5xAe3gHp' @ 217 : 1
+2023/11/12-21:58:09.525979 306db7000 Compacting 1@0 + 1@1 files
+2023/11/12-21:58:09.529904 306db7000 Generated table #139@0: 223 keys, 251173 bytes
+2023/11/12-21:58:09.529924 306db7000 Compacted 1@0 + 1@1 files => 251173 bytes
+2023/11/12-21:58:09.530003 306db7000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/12-21:58:09.530069 306db7000 Delete type=2 #138
+2023/11/12-21:58:09.530333 306db7000 Delete type=2 #134
+2023/11/12-21:58:09.532502 306db7000 Manual compaction at level-0 from '!actors.items!tJfub4jB4kAK5N5b.rDnrOvgN5xAe3gHp' @ 217 : 1 .. '!folders!aI1MMADBHOTgQWoQ' @ 0 : 0; will stop at (end)
