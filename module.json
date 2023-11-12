@@ -12,7 +12,7 @@
   "version": "0.4.1",
   "compatibility": {
     "minimum": "11",
-    "verified": ""
+    "verified": "11"
   },
   "relationships": {
     "systems": [
