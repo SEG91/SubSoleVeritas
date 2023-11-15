@@ -1,3 +1,18 @@
-2023/11/12-21:58:13.200715 30bca2000 Recovering log #137
-2023/11/12-21:58:13.201368 30bca2000 Delete type=3 #135
-2023/11/12-21:58:13.201593 30bca2000 Delete type=0 #137
+2023/11/15-14:09:59.501 72e0 Recovering log #144
+2023/11/15-14:09:59.501 72e0 Level-0 table #146: started
+2023/11/15-14:09:59.504 72e0 Level-0 table #146: 21732 bytes OK
+2023/11/15-14:09:59.507 72e0 Delete type=0 #144
+2023/11/15-14:09:59.507 72e0 Delete type=3 #142
+2023/11/15-14:44:00.752 5bcc Level-0 table #149: started
+2023/11/15-14:44:00.754 5bcc Level-0 table #149: 7069 bytes OK
+2023/11/15-14:44:00.755 5bcc Delete type=0 #147
+2023/11/15-14:44:00.762 5bcc Manual compaction at level-0 from '!actors!02sDBcglLBxN4I04' @ 72057594037927935 : 1 .. '!folders!ongiiK4ke7LRn2bg' @ 0 : 0; will stop at '!folders!hCAbCRueiK8H2GJm' @ 295 : 1
+2023/11/15-14:44:00.762 5bcc Compacting 3@0 + 1@1 files
+2023/11/15-14:44:00.770 5bcc Generated table #150@0: 269 keys, 294725 bytes
+2023/11/15-14:44:00.771 5bcc Compacted 3@0 + 1@1 files => 294725 bytes
+2023/11/15-14:44:00.771 5bcc compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/15-14:44:00.772 5bcc Delete type=2 #139
+2023/11/15-14:44:00.772 5bcc Delete type=2 #143
+2023/11/15-14:44:00.772 5bcc Delete type=2 #146
+2023/11/15-14:44:00.772 5bcc Delete type=2 #149
+2023/11/15-14:44:00.773 5bcc Manual compaction at level-0 from '!folders!hCAbCRueiK8H2GJm' @ 295 : 1 .. '!folders!ongiiK4ke7LRn2bg' @ 0 : 0; will stop at (end)
