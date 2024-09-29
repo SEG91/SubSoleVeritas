@@ -9,7 +9,7 @@
       "flags": {}
     }
   ],
-  "version": "0.7",
+  "version": "0.5.2",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -53,6 +53,30 @@
       "type": "Actor",
       "name": "pnj-sub-sole-veritas",
       "path": "packs/pnj-sub-sole-veritas",
+      "system": "valombreuse",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Secret de Céphéus",
+      "type": "Item",
+      "name": "secret-de-cepheus",
+      "path": "packs/secret-de-cepheus",
+      "system": "valombreuse",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Pouvoirs de Veine",
+      "type": "Item",
+      "name": "pouvoirs-de-veine",
+      "path": "packs/pouvoirs-de-veine",
       "system": "valombreuse",
       "ownership": {
         "PLAYER": "OBSERVER",
