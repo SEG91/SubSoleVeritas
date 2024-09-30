@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-2024/09/27-21:21:14.140 4490 Recovering log #1171
-2024/09/27-21:21:14.158 4490 Delete type=0 #1171
-2024/09/27-21:21:14.158 4490 Delete type=3 #1169
-2024/09/27-21:32:22.417 30e8 Level-0 table #1176: started
-2024/09/27-21:32:22.417 30e8 Level-0 table #1176: 0 bytes OK
-2024/09/27-21:32:22.424 30e8 Delete type=0 #1174
-2024/09/27-21:32:22.436 30e8 Manual compaction at level-0 from '!folders!hnNjA6X6v3xwFi2i' @ 72057594037927935 : 1 .. '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 0 : 0; will stop at (end)
-=======
-2024/09/29-21:29:07.472673 30ba3a000 Recovering log #652
-2024/09/29-21:29:07.477313 30ba3a000 Delete type=3 #650
-2024/09/29-21:29:07.477626 30ba3a000 Delete type=0 #652
-2024/09/29-21:39:14.626246 305137000 Level-0 table #657: started
-2024/09/29-21:39:14.626333 305137000 Level-0 table #657: 0 bytes OK
-2024/09/29-21:39:14.626545 305137000 Delete type=0 #655
-2024/09/29-21:39:14.627154 305137000 Manual compaction at level-0 from '!scenes!3uCgwQlaqQ7Wh6oS' @ 72057594037927935 : 1 .. '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 0 : 0; will stop at (end)
->>>>>>> 09a9c888fb58dbde15388637927e7e056ad60212
+2024/09/30-07:37:30.126 5114 Recovering log #1182
+2024/09/30-07:37:30.143 5114 Delete type=0 #1182
+2024/09/30-07:37:30.143 5114 Delete type=3 #1181
+2024/09/30-07:40:02.790 4ff8 Level-0 table #1186: started
+2024/09/30-07:40:02.790 4ff8 Level-0 table #1186: 0 bytes OK
+2024/09/30-07:40:02.800 4ff8 Delete type=0 #1184
+2024/09/30-07:40:02.808 4ff8 Manual compaction at level-0 from '!scenes!3uCgwQlaqQ7Wh6oS' @ 72057594037927935 : 1 .. '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 0 : 0; will stop at '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 5834 : 1
+2024/09/30-07:40:02.808 4ff8 Compacting 1@0 + 0@1 files
+2024/09/30-07:40:02.826 4ff8 Generated table #1187@0: 5882 keys, 480100 bytes
+2024/09/30-07:40:02.826 4ff8 Compacted 1@0 + 0@1 files => 480100 bytes
+2024/09/30-07:40:02.832 4ff8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/09/30-07:40:02.833 4ff8 Delete type=2 #261
+2024/09/30-07:40:02.868 4ff8 Manual compaction at level-0 from '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 5834 : 1 .. '!scenes.walls!vaTLyar4pmATONNT.ze1jsqDNZr8vbUBr' @ 0 : 0; will stop at (end)
