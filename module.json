@@ -9,7 +9,7 @@
       "flags": {}
     }
   ],
-  "version": "0.9",
+  "version": "1.0",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -77,6 +77,18 @@
       "type": "Item",
       "name": "pouvoirs-de-veine",
       "path": "packs/pouvoirs-de-veine",
+      "system": "valombreuse",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "label": "Aides de Jeu",
+      "type": "Item",
+      "name": "aides-de-jeu",
+      "path": "packs/aides-de-jeu",
       "system": "valombreuse",
       "ownership": {
         "PLAYER": "OBSERVER",
